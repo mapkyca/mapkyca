@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I’m a software developer / full stack software engineer currently based in Europe. My clients include software houses, financial and governmental institutions, news agencies, and companies both large and small.
+
+I have helped build life saving medical software, secure messaging systems, high performance video platforms, and Open Source projects used around the world.
+
+- 🔭 I’m currently working on Open Science and data sharing projects in the EU
+- 📫 How to reach me: [main website](https://www.marcus-povey.co.uk)
+
+
 <!--
 **mapkyca/mapkyca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
