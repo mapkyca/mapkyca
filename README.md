@@ -4,7 +4,7 @@ I’m a freelance software developer / full stack software engineer currently ba
 
 I have helped build life saving medical software, secure messaging systems, high performance video platforms, and Open Source projects used around the world.
 
-Available for hire and new opportunities.
+[Available for hire and new opportunities.](https://www.marcus-povey.co.uk/hire/)
 
 - 🔭 I’m currently working on Open Science and data sharing projects in the EU
 - 📫 How to reach me: [main website](https://www.marcus-povey.co.uk)
