@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I’m a freelance software developer / full stack software engineer currently based in Europe. My clients include software houses, financial and governmental institutions, news agencies, and companies both large and small.
-
-I have helped build life saving medical software, secure messaging systems, high performance video platforms, and Open Source projects used around the world.
+Hi, I’m Marcus Povey. I design and build complex software systems, helping organisations turn messy ideas into working platforms. I have helped build life saving medical software, secure messaging systems, high performance video platforms, and Open Source projects used around the world.
 
 [Available for hire and new opportunities.](https://practical-alchemy.com)
 
